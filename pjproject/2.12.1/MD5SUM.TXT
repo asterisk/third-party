@@ -1,0 +1,3 @@
+7f80ba8e1540853f959be6be7912a150  pjproject-2.12.1.tar.bz2
+a0250481bb082d553ae671bee7519d1b  pjproject-2.12.1.tar.gz
+94823f8556403b72e47486089c1cad96  pjproject-2.12.1.zip
