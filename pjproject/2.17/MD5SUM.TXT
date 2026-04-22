@@ -1,0 +1,3 @@
+baacc87418a95107657039269bc71538  pjproject-2.17.tar.bz2
+9ad9b91b8b99ef476ad443a7b786bf6f  pjproject-2.17.tar.gz
+8d04f2f507bb208e76e5a8c17c71741a  pjproject-2.17.zip
